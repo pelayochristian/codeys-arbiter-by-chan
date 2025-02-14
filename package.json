@@ -2,19 +2,22 @@
   "name": "codeys-arbiter-by-chan",
   "displayName": "Codey's Arbiter by Chan",
   "description": "Merging decisive and calming hues for a balanced coding experience.",
+  "repository": "https://github.com/pelayochristian/codeys-arbiter-by-chan",
   "version": "0.0.1",
+  "publisher": "ChristianPelayo",
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
         "label": "Codey's Arbiter by Chan",
         "uiTheme": "vs-dark",
-        "path": "./themes/Codey's Arbiter by Chan-color-theme.json"
+        "path": "./themes/codey_s_arbiter_by_chan_color_theme.json"
       }
     ]
   }
