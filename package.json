@@ -1,0 +1,21 @@
+{
+  "name": "codeys-arbiter-by-chan",
+  "displayName": "Codey's Arbiter by Chan",
+  "description": "Merging decisive and calming hues for a balanced coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codey's Arbiter by Chan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codey's Arbiter by Chan-color-theme.json"
+      }
+    ]
+  }
+}
